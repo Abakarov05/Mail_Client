@@ -1,0 +1,9 @@
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\bin\Debug\ПочтовыйКлиетн.exe.config
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\bin\Debug\ПочтовыйКлиетн.exe
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\bin\Debug\ПочтовыйКлиетн.pdb
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\obj\Debug\ПочтовыйКлиетн.csprojAssemblyReference.cache
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\obj\Debug\ПочтовыйКлиетн.Form1.resources
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\obj\Debug\ПочтовыйКлиетн.Properties.Resources.resources
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\obj\Debug\ПочтовыйКлиетн.csproj.GenerateResource.cache
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\obj\Debug\ПочтовыйКлиетн.exe
+C:\Users\Abaka\source\repos\ПочтовыйКлиетн\ПочтовыйКлиетн\obj\Debug\ПочтовыйКлиетн.pdb
